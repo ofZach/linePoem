@@ -7,9 +7,7 @@ a single line animation based on a new years card...  ported from p5 to OF
 ![b](https://raw.github.com/ofZach/linePoem/master/img/b.png)
 ![c](https://raw.github.com/ofZach/linePoem/master/img/c.png)
 ![d](https://raw.github.com/ofZach/linePoem/master/img/d.png)
-![e](https://raw.github.com/ofZach/linePoem/master/img/e.png)
 ![f](https://raw.github.com/ofZach/linePoem/master/img/f.png)
-![g](https://raw.github.com/ofZach/linePoem/master/img/g.png)
 ![h](https://raw.github.com/ofZach/linePoem/master/img/h.png)
 
 
