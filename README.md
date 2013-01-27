@@ -1,7 +1,7 @@
 linePoem
 ========
 
-a single line animation based on a new years card...  ported from p5 to OF
+a single line animation based on a new years card...  ported from p5 to OF so I have something subtle to play before my talk at FITC tokyo.
 
 ![a](https://raw.github.com/ofZach/linePoem/master/img/a.png)
 ![b](https://raw.github.com/ofZach/linePoem/master/img/b.png)
